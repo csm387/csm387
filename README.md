@@ -17,3 +17,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=csm387&icon=6&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://raw.githubusercontent.com/csm387/csm387/output/snake.svg" alt="Snake animation" />
